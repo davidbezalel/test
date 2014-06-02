@@ -1,0 +1,20 @@
+janward akun
+username ==> janward
+password ==> asahpisau123
+
+Johan akun
+username ==> Johanbarat
+password ==> BrokenTart12
+
+prama akun
+username ==> pramadaeli
+password ==> basket28
+
+david akun
+username ==> davidbezalel
+password ==> davidlaoli0 --> ( angka nol )
+
+
+
+
+
